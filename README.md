@@ -12,4 +12,7 @@ dowload this zip and extract
 after extraction open in terminal 
 run the command 
 1. mvn springboot:run
-   
+
+
+this is the test result for the app
+![tryp](https://github.com/user-attachments/assets/9fe954de-6a33-436e-aede-66dbed437d4c)
